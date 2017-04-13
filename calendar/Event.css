@@ -1,0 +1,25 @@
+﻿body {
+
+ 
+  
+    border-style:solid;
+  
+    background-position:center;
+   
+    border-width :thick;
+
+    background-image:url("spring.jpg");
+
+    
+    
+
+}
+
+
+.Events {
+    color: darkred;
+}
+
+ .result {
+    color: darkred;
+}
